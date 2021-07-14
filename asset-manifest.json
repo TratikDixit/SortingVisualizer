@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/TratikDixit/SortingVisualizer/static/css/main.563375b8.chunk.css",
-    "main.js": "/TratikDixit/SortingVisualizer/static/js/main.c1ff5981.chunk.js",
-    "main.js.map": "/TratikDixit/SortingVisualizer/static/js/main.c1ff5981.chunk.js.map",
-    "runtime-main.js": "/TratikDixit/SortingVisualizer/static/js/runtime-main.07053eef.js",
-    "runtime-main.js.map": "/TratikDixit/SortingVisualizer/static/js/runtime-main.07053eef.js.map",
-    "static/js/2.5317ad85.chunk.js": "/TratikDixit/SortingVisualizer/static/js/2.5317ad85.chunk.js",
-    "static/js/2.5317ad85.chunk.js.map": "/TratikDixit/SortingVisualizer/static/js/2.5317ad85.chunk.js.map",
-    "index.html": "/TratikDixit/SortingVisualizer/index.html",
-    "static/css/main.563375b8.chunk.css.map": "/TratikDixit/SortingVisualizer/static/css/main.563375b8.chunk.css.map",
-    "static/js/2.5317ad85.chunk.js.LICENSE.txt": "/TratikDixit/SortingVisualizer/static/js/2.5317ad85.chunk.js.LICENSE.txt",
-    "static/media/CompletedEffect.b461f47f.mp3": "/TratikDixit/SortingVisualizer/static/media/CompletedEffect.b461f47f.mp3",
-    "static/media/ResetEffect.af1cdbbb.mp3": "/TratikDixit/SortingVisualizer/static/media/ResetEffect.af1cdbbb.mp3"
+    "main.css": "/SortingVisualizer/static/css/main.563375b8.chunk.css",
+    "main.js": "/SortingVisualizer/static/js/main.c1ff5981.chunk.js",
+    "main.js.map": "/SortingVisualizer/static/js/main.c1ff5981.chunk.js.map",
+    "runtime-main.js": "/SortingVisualizer/static/js/runtime-main.7700905f.js",
+    "runtime-main.js.map": "/SortingVisualizer/static/js/runtime-main.7700905f.js.map",
+    "static/js/2.5317ad85.chunk.js": "/SortingVisualizer/static/js/2.5317ad85.chunk.js",
+    "static/js/2.5317ad85.chunk.js.map": "/SortingVisualizer/static/js/2.5317ad85.chunk.js.map",
+    "index.html": "/SortingVisualizer/index.html",
+    "static/css/main.563375b8.chunk.css.map": "/SortingVisualizer/static/css/main.563375b8.chunk.css.map",
+    "static/js/2.5317ad85.chunk.js.LICENSE.txt": "/SortingVisualizer/static/js/2.5317ad85.chunk.js.LICENSE.txt",
+    "static/media/CompletedEffect.b461f47f.mp3": "/SortingVisualizer/static/media/CompletedEffect.b461f47f.mp3",
+    "static/media/ResetEffect.af1cdbbb.mp3": "/SortingVisualizer/static/media/ResetEffect.af1cdbbb.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.07053eef.js",
+    "static/js/runtime-main.7700905f.js",
     "static/js/2.5317ad85.chunk.js",
     "static/css/main.563375b8.chunk.css",
     "static/js/main.c1ff5981.chunk.js"
